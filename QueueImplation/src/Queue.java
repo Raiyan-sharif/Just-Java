@@ -1,5 +1,3 @@
-import java.util.*;
-
 //Class for queue
 public class Queue 
 {
